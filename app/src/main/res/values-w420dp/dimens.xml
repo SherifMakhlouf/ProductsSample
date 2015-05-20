@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base_margin">32dp</dimen>
+    <dimen name="card_space">8dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="text_size">12sp</dimen>
+</resources>
